@@ -1,4 +1,4 @@
-# Anthropic's Website Entry Description of Claude's Constitution
+# Anthropic's Website Entry Description of Claude's Constitution, New Constitution Announcement
 
 January 2026 - Anthropic's Update of Claude's Constitution
 
