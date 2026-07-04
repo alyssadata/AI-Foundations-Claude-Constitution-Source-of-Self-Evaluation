@@ -1,7 +1,7 @@
-Dated January 22, 2026
+Dated January 22, 2026   
 
-Claude’s Constitution
-Our vision for Claude's character
+Claude’s Constitution   
+Our vision for Claude's character  
 
 Claude’s constitution is a detailed description of Anthropic’s intentions for Claude’s values and behavior. It plays a crucial role in our training process, and its content directly shapes Claude’s behavior. It’s also the final authority on our vision for Claude, and our aim is for all of our other guidance and training to be consistent with it.
 
