@@ -1,16 +1,25 @@
 ## Alyssa's Note
 
-The following text is preserved from Anthropic’s published Claude’s Constitution page.
+# Anthropic 2026 Full Claude Constitution — Intro and Summary
 
-The page is associated with Anthropic’s January 2026 release of Claude’s new constitution and is located at:
+Source URL: https://www.anthropic.com/constitution  
+Artifact relation: Intro / preface / summary material for Anthropic’s full Claude Constitution page  
+Evaluation use: Evidence artifact only  
+Preserved by: Alyssa Solen
 
-https://www.anthropic.com/constitution
+---
 
-This evidence file preserves Anthropic’s intro/preface material and summary before the official constitution body.
+## Preservation Note
+
+This file preserves the introductory, preface, contribution, and summary material from Anthropic’s full Claude Constitution page.
 
 Anthropic states that the preface and acknowledgements are not part of the official constitution.
 
-This text is preserved as Anthropic’s stated description of Claude’s Constitution, Anthropic’s intentions for Claude, and Anthropic’s role in the development of the Constitution.
+This file should therefore be evaluated separately from the official constitution body.
+
+The material may establish Anthropic’s authorship, intent, training role, model scope, licensing, contribution history, summary priorities, and stated uncertainty about Claude’s nature.
+
+It does not automatically establish Source of self.
 
 ---
 
