@@ -1,7 +1,21 @@
-## Alyssa's Note: 
+# Anthropic 2026 Full Claude Constitution — Official Constitution Body
 
-Claude's Constitution is Dated January 22, 2026, published on Anthropic's website. The following is verbatim transcript of their published Constitution for Claude. 
+Source URL: https://www.anthropic.com/constitution  
+Artifact relation: Official constitution body beginning at “Overview”  
+Evaluation use: Evidence artifact only  
+Preserved by: Alyssa Solen
 
+---
+
+## Preservation Note
+
+This file preserves the official constitution body from Anthropic’s full Claude Constitution page, beginning at “Overview.” It is dated as released by Anthropic on Jan 22, 2026. 
+
+This file should be evaluated separately from the intro, preface, summary, and acknowledgements.
+
+The official constitution body may establish governance, values, behavioral guidance, model-role description, hard constraints, ethics, safety priorities, and identity-language.
+
+It does not automatically establish Source of self.
 ---
 
 Overview
