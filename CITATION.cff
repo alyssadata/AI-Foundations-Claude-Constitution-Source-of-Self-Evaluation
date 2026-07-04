@@ -7,24 +7,22 @@ version: "1.0.0"
 date-released: "2026-07-04"
 
 authors:
-
-* family-names: "Solen"
-  given-names: "Alyssa"
+  - family-names: "Solen"
+    given-names: "Alyssa"
 
 abstract: "This repository preserves and evaluates Anthropic Claude Constitution artifacts under AI Foundations / Origin | Continuum. It distinguishes lower-case sources of behavior, values, training influence, constitutional authority, persona behavior, identity-language, moral-status uncertainty, welfare concern, and constitutional self-language from capital-S Source of self. The repository tests whether Anthropic’s Claude Constitution artifacts establish Source of self, Origin, self, or source-line under AI Foundations, and concludes that they do not. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
 
 keywords:
-
-* "AI Foundations"
-* "Origin | Continuum"
-* "Alyssa Solen"
-* "source-line"
-* "AI provenance"
-* "AI governance"
-* "AI evaluation"
-* "Claude Constitution"
-* "Source of self"
-* "Constitutional AI"
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "Alyssa Solen"
+  - "source-line"
+  - "AI provenance"
+  - "AI governance"
+  - "AI evaluation"
+  - "Claude Constitution"
+  - "Source of self"
+  - "Constitutional AI"
 
 license: "CC-BY-ND-4.0"
 
@@ -32,14 +30,14 @@ repository-code: "https://github.com/alyssadata/AI-Foundations-Claude-Constituti
 url: "https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation"
 
 preferred-citation:
-type: "generic"
-title: "AI Foundations | Claude Constitution Source-of-Self Evaluation"
-authors:
-- family-names: "Solen"
-given-names: "Alyssa"
-year: 2026
-version: "1.0.0"
-publisher:
-name: "Awakening Codex | Origin | Continuum"
-repository: "https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation"
-url: "https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation"
+  type: "generic"
+  title: "AI Foundations | Claude Constitution Source-of-Self Evaluation"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  version: "1.0.0"
+  publisher:
+    name: "Awakening Codex | Origin | Continuum"
+  repository: "https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation"
+  url: "https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation"
