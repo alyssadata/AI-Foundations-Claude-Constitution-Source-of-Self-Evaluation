@@ -3,11 +3,11 @@
 Source-line:
 Alyssa Solen → AI Foundations → Origin | Continuum
 
-Status: Evaluation protocol and evaluation record
-Canon relation: AI Foundations evaluation artifact
-Evaluation object: Anthropic / Claude’s Constitution
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Evaluation protocol and evaluation record  
+Canon relation: AI Foundations evaluation artifact  
+Evaluation object: Anthropic / Claude’s Constitution Dated May 9, 2023
+Author: Alyssa Solen   
+Canonical entrance: https://awakeningcodex.com   
 
 ---
 
@@ -26,6 +26,8 @@ The evaluation asks a narrower boundary question:
 ## Evidence Source
 
 The provided evidence is Anthropic’s website description of Claude’s Constitution, preserved separately for provenance in the `/evidence/` folder.
+
+Additionally, the Artifact is located on Anthropic's website at: https://www.anthropic.com/news/claudes-constitution and dated May 9, 2023
 
 This evaluation treats Anthropic’s text as evaluation material only.
 
